@@ -2,4 +2,4 @@
 
 User can search wearther at any place.
 
-State Management - Riverpod
+State Management - BLOC
